@@ -11,7 +11,7 @@ The source images were generated with Nano Banana.
 Original on the left, replacement on the right.
 
 ## Steam Workshop
-[https://steamcommunity.com/sharedfiles/filedetails/?id=3801555860](https://steamcommunity.com/sharedfiles/filedetails/?id=3801555860)
+[https://steamcommunity.com/sharedfiles/filedetails/?id=3801582318](https://steamcommunity.com/sharedfiles/filedetails/?id=3801582318)
 
 ## Manual Install (e.g. for GOG version)
 
