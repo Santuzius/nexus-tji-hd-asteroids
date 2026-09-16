@@ -1,10 +1,10 @@
 # HD Asteroids
 
-A texture mod for *Nexus: The Jupiter Incident*.
+A mod for *Nexus: The Jupiter Incident*.
 
-Replaces the two asteroid rock materials at 1024×1024, up from the original 512×512, with matching normal maps. Every asteroid mesh in the game uses one of these two materials — so four files cover every rock in the game, with the exception of the backgrounds.
+Replaces all 35 asteroid models with high-poly versions and the two asteroid rock materials with 1024×1024 textures with surface relief.
 
-The source images were generated with Nano Banana.
+The textures were generated with Nano Banana.
 
 ![preview](preview.jpg)
 
