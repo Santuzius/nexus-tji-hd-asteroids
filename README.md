@@ -2,7 +2,7 @@
 
 A mod for *Nexus: The Jupiter Incident*.
 
-Replaces all 35 asteroid models with high-poly versions and the two asteroid rock materials with 1024×1024 textures with surface relief. Best used together with [HD Asteroid Fields](https://steamcommunity.com/sharedfiles/itemedittext/?id=3801582318), which repaints the distant belts in the same rock color.
+Replaces all 35 asteroid models with high-poly versions and the two asteroid rock materials with 1024×1024 textures with surface relief. Best used together with [HD Asteroid Fields](https://steamcommunity.com/sharedfiles/filedetails/?id=3802704750), which repaints the distant belts in the same rock color.
 
 The textures were generated with Nano Banana.
 
